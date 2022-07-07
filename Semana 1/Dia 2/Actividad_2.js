@@ -1,9 +1,9 @@
 var edad = 0;
-var respuesta = prompt("Proporcione la edad cumplida o por cumplir este año:");
+var respuesta = prompt("Proporcione la edad cumplida o por cumplir este año:")  | "0";
 
 try {
     
-    edad = parseInt(respuesta);
+    edad = Number(respuesta);
 
     console.log(edad);
 
