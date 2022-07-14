@@ -7,6 +7,25 @@ for (i = 0 ; i < array.length ; i++ ) {
     (Number(array[i]) > 3) ? console.log(array[i]) : i;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Actividad 2
 let array2 = [];
 let i = 0;
@@ -16,6 +35,20 @@ while ( i < 5  ) {
     i++;
 }
 console.log({array2});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //Actividad 3
 let array3 = [1,4,6,10,22,55,46,2,5,0];
